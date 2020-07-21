@@ -1,4 +1,3 @@
-//
 //  main.swift
 //  Andrey Nikitin HW6
 //
